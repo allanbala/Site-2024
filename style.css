@@ -102,12 +102,12 @@ p
     font-family:Arial, Helvetica, sans-serif;
     text-align: center; 
 }
-.p1{
+p.p1{
     font-size: 16px;
     font: arial, sans-serif;
     color: red;
 }
-.p2
+p.p2
 {
     font-size: 20px;
     font: verdana, arial, sans-serif;
